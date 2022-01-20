@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work.
 Just changing a few lines
 
 ## Introduction
+This is not a formal introduction. Just a filler placeholder
 
 ## Purpose
 

@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ike osamor ike@git.training @awesomeik
 
 # THANKS
 
